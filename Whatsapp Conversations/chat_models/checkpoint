@@ -1,0 +1,5 @@
+model_checkpoint_path: "final_rnn_train_chats-40800000"
+all_model_checkpoint_paths: "rnn_train_1548172463-0"
+all_model_checkpoint_paths: "rnn_train_1548172463-20000000"
+all_model_checkpoint_paths: "rnn_train_1548172463-40000000"
+all_model_checkpoint_paths: "final_rnn_train_chats-40800000"
